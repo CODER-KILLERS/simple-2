@@ -7,8 +7,8 @@
 </p>
 <p align="center">
  
-### Hasil crack tanpa TTL
- <img src="https://github.com/Fall-Xavier/simple/blob/main/Screenshot_2021-07-04-21-14-42-83_84d3000e3f4017145260f7618db1d683.jpg" width="640" title="Menu" alt="Menu">
+### Hasil Crack
+ <img src="https://github.com/Fall-Xavier/simple/blob/main/Screenshot_2021-08-03-08-03-59-72_84d3000e3f4017145260f7618db1d683.jpg" width="640" title="Menu" alt="Menu">
 </p>
 
 #### Install script on Termux
